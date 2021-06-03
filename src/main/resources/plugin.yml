@@ -1,0 +1,7 @@
+name: CustomRepair
+version: 1.0
+main: it.alexdev_.customrepair.CustomRepair
+author: AlexDev_
+depend: [TokenEnchant]
+commands:
+  cr:

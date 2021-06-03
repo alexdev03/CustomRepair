@@ -1,0 +1,7 @@
+#permission: sign.vip.elite
+Fix-Cost-Base: 10
+Fix-Cost-Base-Vip-Elite: 7
+Fix-Cost-Base-Vip-Ultimate: 5
+Prefix: "CustomPrefix: "
+Players: {}
+Blocks: {}
